@@ -29,8 +29,7 @@ Rest:
 
 ---
 
-## Notes
-
-- Increase load only if all sets are completed with good form.
-- If fingers feel sensitive → switch repeaters to 25mm.
-- Stop immediately if sharp pain appears.
+## 25mm tindeq upper pull
+| Data | Left | Right |
+|-----------|-----------|-----------|
+| 21.04.2026 | 36.85kg | 38.2kg|
