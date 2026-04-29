@@ -70,7 +70,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | Date | Left (kg) | Right (kg) | Combined (kg) | Avg (kg) | Notes |
 |------|-----------|------------|---------------|----------|-------|
 | 21.04.2026 | 36.85 | 38.20 | 75.05 | 37.53 | Baseline, pre-period |
-|  |  |  |  |  |  |
+| 29.04.2026 | 36.35 | 39.95 | 76.30 | 38.15 | L 49.8%, R 54.7% BW; +1.25 combined vs baseline |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
