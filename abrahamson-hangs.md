@@ -38,9 +38,9 @@ Light recruitment-style hangs, every morning. Legs on the floor, ~60% of max-han
 <!-- streak:start -->
 | Streak | Value |
 |---|---|
-| Current streak | 6 days |
-| Longest streak | 6 days |
-| Total sessions | 6 |
+| Current streak | 11 days |
+| Longest streak | 11 days |
+| Total sessions | 11 |
 <!-- streak:end -->
 
 > Auto-computed by `streak.py` from the calendars below. Run `python3 streak.py` after marking a day.
@@ -73,14 +73,14 @@ After marking, run `python3 streak.py` to refresh the streak table.
 | 6 ⬜  | 7 ⬜  | 8 ⬜  | 9 ⬜  | 10 ⬜ | 11 ⬜ | 12 ⬜ |
 | 13 ⬜ | 14 ⬜ | 15 ⬜ | 16 ⬜ | 17 ⬜ | 18 ⬜ | 19 ⬜ |
 | 20 ⬜ | 21 ⬜ | 22 ⬜ | 23 ⬜ | 24 ✅ | 25 ✅ | 26 ✅ |
-| 27 ✅ | 28 ✅ | 29 ✅ | 30 ⬜ |        |        |        |
+| 27 ✅ | 28 ✅ | 29 ✅ | 30 ✅ |        |        |        |
 
 ### May 2026
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|
-|        |        |        |        | 1 ⬜  | 2 ⬜  | 3 ⬜  |
-| 4 ⬜  | 5 ⬜  | 6 ⬜  | 7 ⬜  | 8 ⬜  | 9 ⬜  | 10 ⬜ |
+|        |        |        |        | 1 ✅  | 2 ✅  | 3 ✅  |
+| 4 ✅  | 5 ⬜  | 6 ⬜  | 7 ⬜  | 8 ⬜  | 9 ⬜  | 10 ⬜ |
 | 11 ⬜ | 12 ⬜ | 13 ⬜ | 14 ⬜ | 15 ⬜ | 16 ⬜ | 17 ⬜ |
 | 18 ⬜ | 19 ⬜ | 20 ⬜ | 21 ⬜ | 22 ⬜ | 23 ⬜ | 24 ⬜ |
 | 25 ⬜ | 26 ⬜ | 27 ⬜ | 28 ⬜ | 29 ⬜ | 30 ⬜ | 31 ⬜ |
