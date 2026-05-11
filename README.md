@@ -70,8 +70,8 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 
 | Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
-| 1 | Tue | Max Hang | 20 mm | 5 | 7s | +5 | 33% | 7/10 | [ ] | Easy ramp-in |  |
-| 1 | Wed | Repeaters | 25 mm | 3 | 6×(7:3) | BW | — | 6/10 | [ ] | Baseline week, focus on form |  |
+| 1 | Fri | Max Hang | 20 mm | 5 | 7s | +5 | 33% | 7/10 | ✅ | Easy ramp-in | Traning after hangs were kinda weak |
+| 1 | Wed | Repeaters | 25 mm | 3 | 6×(7:3) | BW | — | 6/10 | ❌ | Baseline week, focus on form | Skipped |
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +7 | 47% | 7.5/10 | [ ] | +2 kg, sets unchanged |  |
 | 2 | Wed | Repeaters | 25 mm | 4 | 6×(7:3) | BW | — | 6/10 | [ ] | +1 set (volume bump) |  |
 | 3 | Tue | Max Hang | 20 mm | 5 | 8s | +9 | 60% | 8/10 | [ ] | +2 kg, +1s hold |  |
