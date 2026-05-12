@@ -72,7 +72,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
 | 1 | Fri | Max Hang | 20 mm | 5 | 7s | +5 | 33% | 7/10 | ✅ | Easy ramp-in | Traning after hangs were kinda weak |
 | 1 | Wed | Repeaters | 25 mm | 3 | 6×(7:3) | BW | — | 6/10 | ❌ | Baseline week, focus on form | Skipped |
-| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +7 | 47% | 7.5/10 | [ ] | +2 kg, sets unchanged |  |
+| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +7 | 47% | 7.5/10 | ✅ | +2 kg, sets unchanged | Still easy |
 | 2 | Wed | Repeaters | 25 mm | 4 | 6×(7:3) | BW | — | 6/10 | [ ] | +1 set (volume bump) |  |
 | 3 | Tue | Max Hang | 20 mm | 5 | 8s | +9 | 60% | 8/10 | [ ] | +2 kg, +1s hold |  |
 | 3 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | [ ] | Edge change only, no added load |  |

@@ -38,9 +38,9 @@ Light recruitment-style hangs, every morning. Legs on the floor, ~60% of max-han
 <!-- streak:start -->
 | Streak | Value |
 |---|---|
-| Current streak | 17 days |
-| Longest streak | 17 days |
-| Total sessions | 17 |
+| Current streak | 18 days |
+| Longest streak | 18 days |
+| Total sessions | 18 |
 <!-- streak:end -->
 
 > Auto-computed by `streak.py` from the calendars below. Run `python3 streak.py` after marking a day.
@@ -81,7 +81,7 @@ After marking, run `python3 streak.py` to refresh the streak table.
 |---|---|---|---|---|---|---|
 |        |        |        |        | 1 ✅  | 2 💤  | 3 ✅  |
 | 4 ✅  | 5 ✅ | 6 ✅  | 7 ✅  | 8 ✅  | 9 ✅  | 10 ✅ |
-| 11 ✅ | 12 ⬜ | 13 ⬜ | 14 ⬜ | 15 ⬜ | 16 ⬜ | 17 ⬜ |
+| 11 ✅ | 12 ✅ | 13 ⬜ | 14 ⬜ | 15 ⬜ | 16 ⬜ | 17 ⬜ |
 | 18 ⬜ | 19 ⬜ | 20 ⬜ | 21 ⬜ | 22 ⬜ | 23 ⬜ | 24 ⬜ |
 | 25 ⬜ | 26 ⬜ | 27 ⬜ | 28 ⬜ | 29 ⬜ | 30 ⬜ | 31 ⬜ |
 
