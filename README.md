@@ -1,6 +1,6 @@
 # 6-Week Hangboard Plan (Repeaters + Max Hangs)
 
-Half crimp, no thumb. All max hangs on 20 mm; repeaters alternate 25 mm / 20 mm.
+Half crimp, no thumb. All hangs on 20 mm.
 
 ---
 
@@ -24,8 +24,8 @@ Two week variants depending on whether Friday is rock or wall:
 
 | Session | Day | Edge | Protocol |
 |---------|-----|------|----------|
-| Max Hangs | Tuesday AM | 20 mm | 7–10s hang per set |
-| Repeaters | Wednesday (before/after wall) | 25 mm / 20 mm | 7s hang : 3s rest × 6 reps = 1 set |
+| Max Hangs | Tuesday AM | 20 mm | 7s hang per set |
+| Repeaters | Wednesday (before/after wall) | 20 mm | 7s hang : 3s rest × 6 reps = 1 set |
 
 **Rest between sets**
 - Repeaters → 2–2.5 min
@@ -54,10 +54,10 @@ All max-hang loads below are expressed as a percentage of +15 kg added. Tindeq i
 Rules of thumb for this period:
 
 1. **Change one variable per week.** Either sets OR weight OR edge — not all three.
-2. **Max hangs:** start at ~33% of peak added load (+5 kg), build to ~80% (+12 kg) by W6. Working sets stay below 85% — you test the new 1RM in the re-test week, not during volume work.
-3. **Repeaters:** stay at 60–70% intensity. On 25 mm that is BW or BW + small load; on 20 mm usually BW only or band-assisted.
+2. **Max hangs:** start at ~33% of peak added load (+5 kg), build to ~87% (+13 kg) by W6. Hold time stays at 7s throughout — progression is via weight and sets only.
+3. **Repeaters:** stay at 60–70% intensity. On 20 mm that is BW for most weeks; small load (+1–2 kg) only in W5–W6.
 4. **Deload (W4):** drop sets and load by ~10–15%. This is non-negotiable — it's where adaptation actually happens.
-5. **Edge change** (25 mm → 20 mm on repeaters) is itself a big intensity jump. When you switch edges, do **not** also add weight that same week.
+5. **All hangs are on 20 mm.** Since there's no easier edge to fall back to, manage load and sets carefully — especially on repeaters where accumulated fatigue is higher on 20 mm than it would be on 25 mm.
 6. If a session feels >9/10 RPE or grip slips early, drop 1–2 kg next session. Quality > load.
 
 ---
@@ -71,16 +71,16 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
 | 1 | Fri | Max Hang | 20 mm | 5 | 7s | +5 | 33% | 7/10 | ✅ | Easy ramp-in | Traning after hangs were kinda weak |
-| 1 | Wed | Repeaters | 25 mm | 3 | 6×(7:3) | BW | — | 6/10 | ❌ | Baseline week, focus on form | Skipped |
+| 1 | Wed | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 6/10 | ❌ | Baseline week, focus on form | Skipped |
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +7 | 47% | 7.5/10 | ✅ | +2 kg, sets unchanged | Still easy |
-| 2 | Wed | Repeaters | 25 mm | 4 | 6×(7:3) | BW | — | 6/10 | ✅ | +1 set (volume bump) | done on 20mm instead of 25 |
-| 3 | Tue | Max Hang | 20 mm | 5 | 8s | +9 | 60% | 8/10 | [ ] | +2 kg, +1s hold |  |
-| 3 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | [ ] | Edge change only, no added load |  |
-| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +5 | 33% | 6/10 | [ ] | **DELOAD** |  |
-| 4 | Wed | Repeaters | 25 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — back to easy edge |  |
-| 5 | Tue | Max Hang | 20 mm | 4 | 8s | +11 | 73% | 8/10 | [ ] | Hard but not maximal |  |
+| 2 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6/10 | ✅ | +1 set (volume bump) | done on 20mm instead of 25 |
+| 3 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 8/10 | [ ] | +3 kg, hold stays 7s |  |
+| 3 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | [ ] | Volume hold, no added load |  |
+| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +6 | 40% | 6/10 | [ ] | **DELOAD** |  |
+| 4 | Wed | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set |  |
+| 5 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | Post-deload push, +1 set |  |
 | 5 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | +1 | — | 7.5/10 | [ ] | First loaded repeaters |  |
-| 6 | Tue | Max Hang | 20 mm | 4 | 8s | +12 | 80% | 8.5/10 | [ ] | **PEAK** — optional top single at +13–14 if all 4 sets felt strong |  |
+| 6 | Tue | Max Hang | 20 mm | 5 | 7s | +13 | 87% | 8.5/10 | [ ] | **PEAK** — optional top single at +14–15 if all 5 sets felt strong |  |
 | 6 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | +2 | — | 8/10 | [ ] | Last quality session |  |
 
 **Re-test week (W7):** 5–7 days fully off finger work, then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Update both this header and the Tindeq log.
