@@ -6,26 +6,18 @@ Half crimp, no thumb. All hangs on 20 mm.
 
 ## Weekly Schedule
 
-Two week variants depending on whether Friday is rock or wall:
-
-### Week Type A — Friday Rock (default)
+Mon climbing was dropped to free recovery budget for a second structured hangboard session. Fingers are the limiter for the current grade (see "Why two finger sessions" below), so the week now prioritizes hangboard quality over climbing volume. Friday can be wall or rock — placement of the hangboard sessions does not change either way.
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| Rest / light climb | **Max Hangs** (AM) | Wall training + **Repeaters** | Rest | Rock climbing | Rest | Rock climbing |
-
-### Week Type B — Friday Wall (swap)
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
-| Rest / light climb | **Max Hangs** (AM) | Wall training + **Repeaters** | Rest | Wall training | Rest | Rock climbing |
+| Rest | **Max Hangs** (AM) | Wall training (PM) — bias to limit bouldering on small holds | **Repeaters** (late PM) | Wall / Rock (PM–evening) | Rest | Rock climbing (full day) |
 
 ### Hangboard sessions
 
 | Session | Day | Edge | Protocol |
 |---------|-----|------|----------|
 | Max Hangs | Tuesday AM | 20 mm | 7s hang per set |
-| Repeaters | Wednesday (before/after wall) | 20 mm | 7s hang : 3s rest × 6 reps = 1 set |
+| Repeaters | Thursday late PM | 20 mm | 7s hang : 3s rest × 6 reps = 1 set |
 
 **Rest between sets**
 - Repeaters → 2–2.5 min
@@ -33,9 +25,15 @@ Two week variants depending on whether Friday is rock or wall:
 
 ### Why this works
 
-- **Tuesday max hangs** — full rest day Monday (or very light climb), full rest Thursday. 72h before Sunday rock.
-- **Wednesday repeaters** — sub-maximal so they pair with wall training without over-fatiguing.
-- **Friday variant doesn't change hangboard placement** — hangboard stays on Tue/Wed regardless of what Friday is. The only difference is total weekly finger load (wall = controlled, rock = variable).
+- **Tue AM max hangs** — Mon is a full rest day (Sun rock leaves fingers fried for ~24h), so Tue is the first day fingers are actually fresh. ~36h since Sun rock, ~32h before Wed wall. Cleanest possible window for max-CNS work.
+- **Thu late PM repeaters** — ~24h after Wed wall (fingers recovered enough for sub-max work; Thu morning would only be ~12h after wall, which is too tight even at 60–70%) and ~22h before Fri training. Sub-max load means Fri quality is not meaningfully compromised.
+- **Wed wall biased to limit bouldering on small holds (8–14 mm crimps).** With Mon climbing gone, Wed is the main indoor session — make it finger-specific rather than volume-based. This pairs well with Tue max hangs (similar CNS profile) and adds another finger-strength stimulus that doesn't show up on a hangboard.
+- **Sat rest is non-negotiable.** Sun rock is the performance day; it gets ≥48h since the last hangboard session and a full rest day immediately before.
+- **Friday rock vs wall** doesn't move the hangboard placement. Only the total weekly finger load shifts (wall = controlled, rock = variable).
+
+### Why two finger sessions (and not three)
+
+Current 20 mm 7s max hang is +15 kg (≈20% BW added) on a 7c lead climber. Typical 7c benchmarks sit around 75–100% BW added — fingers are clearly the limiter, so the marginal return on a second structured hangboard day is high. A *third* structured day is where pulley risk spikes and gains stall. Stick at two + daily Abrahamson recruitment hangs (see `abrahamson-hangs.md`); win on consistency over a 6-month horizon, not on volume per week.
 
 ---
 
@@ -75,13 +73,13 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +7 | 47% | 7.5/10 | ✅ | +2 kg, sets unchanged | Still easy |
 | 2 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6/10 | ✅ | +1 set (volume bump) | done on 20mm instead of 25 |
 | 3 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 8/10 | [ ] | +3 kg, hold stays 7s |  |
-| 3 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | [ ] | Volume hold, no added load |  |
+| 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | [ ] | Volume hold, no added load |  |
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +6 | 40% | 6/10 | [ ] | **DELOAD** |  |
-| 4 | Wed | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set |  |
+| 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set |  |
 | 5 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | Post-deload push, +1 set |  |
-| 5 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | +1 | — | 7.5/10 | [ ] | First loaded repeaters |  |
+| 5 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +1 | — | 7.5/10 | [ ] | First loaded repeaters |  |
 | 6 | Tue | Max Hang | 20 mm | 5 | 7s | +13 | 87% | 8.5/10 | [ ] | **PEAK** — optional top single at +14–15 if all 5 sets felt strong |  |
-| 6 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | +2 | — | 8/10 | [ ] | Last quality session |  |
+| 6 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +2 | — | 8/10 | [ ] | Last quality session |  |
 
 **Re-test week (W7):** 5–7 days fully off finger work, then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Update both this header and the Tindeq log.
 
