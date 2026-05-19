@@ -72,7 +72,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 1 | Wed | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 6/10 | ❌ | Baseline week, focus on form | Skipped |
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +7 | 47% | 7.5/10 | ✅ | +2 kg, sets unchanged | Still easy |
 | 2 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6/10 | ✅ | +1 set (volume bump) | done on 20mm instead of 25 |
-| 3 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 8/10 | [ ] | +3 kg, hold stays 7s |  |
+| 3 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 8/10 | ✅ | +3 kg, hold stays 7s |  |
 | 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | [ ] | Volume hold, no added load |  |
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +6 | 40% | 6/10 | [ ] | **DELOAD** |  |
 | 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set |  |
@@ -91,7 +91,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 |------|-----------|------------|---------------|----------|-------|
 | 21.04.2026 | 36.85 | 38.20 | 75.05 | 37.53 | Baseline, pre-period |
 | 29.04.2026 | 36.35 | 39.95 | 76.30 | 38.15 | L 49.8%, R 54.7% BW; +1.25 combined vs baseline |
-|  |  |  |  |  |  |
+| 19.05.2026 | 37.60 | 39.10 | 76.70 | 38.35 | +0.40 combined vs last; L 51.2%, R 53.2% BW |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
