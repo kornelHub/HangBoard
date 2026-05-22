@@ -73,7 +73,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +7 | 47% | 7.5/10 | ✅ | +2 kg, sets unchanged | Still easy |
 | 2 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6/10 | ✅ | +1 set (volume bump) | done on 20mm instead of 25 |
 | 3 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 8/10 | ✅ | +3 kg, hold stays 7s |  |
-| 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | [ ] | Volume hold, no added load |  |
+| 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | ✅ | Volume hold, no added load | A little demanding but I was tired from Wed climbing sesh |
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +6 | 40% | 6/10 | [ ] | **DELOAD** |  |
 | 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set |  |
 | 5 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | Post-deload push, +1 set |  |
