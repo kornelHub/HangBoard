@@ -41,7 +41,7 @@ Current 20 mm 7s max hang is +15 kg (≈20% BW added) on a 7c lead climber. Typi
 
 - **Bodyweight:** 73.5 kg
 - **20 mm peak added load (1RM, 7 s):** +15 kg ← **this is the anchor for all load %**
-- **Tindeq 25 mm combined peak (supplementary):** 75.05 kg (21.04.2026)
+- **Tindeq 25 mm combined peak (supplementary):** 92.10 kg (26.05.2026)
 
 All max-hang loads below are expressed as a percentage of +15 kg added. Tindeq is tracked separately as a long-term strength indicator, not used to calibrate session loads.
 
@@ -74,7 +74,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 2 | Wed | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6/10 | ✅ | +1 set (volume bump) | done on 20mm instead of 25 |
 | 3 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 8/10 | ✅ | +3 kg, hold stays 7s |  |
 | 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | ✅ | Volume hold, no added load | A little demanding but I was tired from Wed climbing sesh |
-| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +6 | 40% | 6/10 | [ ] | **DELOAD** |  |
+| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +6 | 40% | 6/10 | ✅ | **DELOAD** | Eays |
 | 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set |  |
 | 5 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | Post-deload push, +1 set |  |
 | 5 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +1 | — | 7.5/10 | [ ] | First loaded repeaters |  |
@@ -92,7 +92,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 21.04.2026 | 36.85 | 38.20 | 75.05 | 37.53 | Baseline, pre-period |
 | 29.04.2026 | 36.35 | 39.95 | 76.30 | 38.15 | L 49.8%, R 54.7% BW; +1.25 combined vs baseline |
 | 19.05.2026 | 37.60 | 39.10 | 76.70 | 38.35 | +0.40 combined vs last; L 51.2%, R 53.2% BW |
-|  |  |  |  |  |  |
+| 26.05.2026 | 44.05 | 48.05 | 92.10 | 46.05 | Pre max-hangs check; **+15.40 combined vs last** (L 59.9%, R 65.4% BW) |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 

@@ -38,9 +38,9 @@ Light recruitment-style hangs, every morning. Legs on the floor, ~60% of max-han
 <!-- streak:start -->
 | Streak | Value |
 |---|---|
-| Current streak | 30 days |
-| Longest streak | 30 days |
-| Total sessions | 30 |
+| Current streak | 32 days |
+| Longest streak | 32 days |
+| Total sessions | 32 |
 <!-- streak:end -->
 
 > Auto-computed by `streak.py` from the calendars below. Run `python3 streak.py` after marking a day.
@@ -83,7 +83,7 @@ After marking, run `python3 streak.py` to refresh the streak table.
 | 4 ✅  | 5 ✅ | 6 ✅  | 7 ✅  | 8 ✅  | 9 ✅  | 10 ✅ |
 | 11 ✅ | 12 ✅ | 13 ✅ | 14 ✅ | 15 ✅ | 16 ✅ | 17 ✅ |
 | 18 ✅ | 19 ✅ | 20 ✅ | 21 ✅ | 22 ✅ | 23 ✅ | 24 ✅ |
-| 25 ⬜ | 26 ⬜ | 27 ⬜ | 28 ⬜ | 29 ⬜ | 30 ⬜ | 31 ⬜ |
+| 25 ✅ | 26 ✅ | 27 ⬜ | 28 ⬜ | 29 ⬜ | 30 ⬜ | 31 ⬜ |
 
 ### June 2026
 
