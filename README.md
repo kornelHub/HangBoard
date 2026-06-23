@@ -60,11 +60,7 @@ Rules of thumb for this period:
 
 ---
 
-## Current Period Progress
-
-Loads below are calibrated to peak added = +15 kg on 20 mm. Adjust ±1 kg based on how W1 feels — if W1 is RPE 6 not 7, bump W2 by an extra kg.
-
-The **Cue** column is the prescription (what the session is *meant* to be). The **Session Log** is for after the session: actual RPE, how grip felt, skin, sleep, anything that explains why it went well or poorly.
+## Block 1 — Previous Period (archived)
 
 | Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
@@ -76,12 +72,32 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7.5/10 | ✅ | Volume hold, no added load | A little demanding but I was tired from Wed climbing sesh |
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +6 | 40% | 6/10 | ✅ | **DELOAD** | Eays |
 | 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | ❌ | **DELOAD** — drop 1 set |  |
-| 5 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | Post-deload push, +1 set |  |
-| 5 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +1 | — | 7.5/10 | [ ] | First loaded repeaters |  |
-| 6 | Tue | Max Hang | 20 mm | 5 | 7s | +13 | 87% | 8.5/10 | [ ] | **PEAK** — optional top single at +14–15 if all 5 sets felt strong |  |
-| 6 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +2 | — | 8/10 | [ ] | Last quality session |  |
+| — | — | — | — | — | — | — | — | — | — | Block stopped after deload — small open-hand tendon strain | Resumed as Block 2 |
+
+## Current Period Progress — Block 2 (post-strain re-entry)
+
+Anchored to peak added = +15 kg on 20 mm (old PR treated as current max). Front end is loaded harder than Block 1 (W1–3 there were 33/47/67% and felt easy). **W1 is your live calibration:** if +8 kg feels >7/10 or the previously strained tendon tweaks, the real max is lower — shift the whole table down 1–2 kg. All hangs 20 mm half-crimp, no thumb; hold stays 7s throughout (progression is weight + sets only).
+
+The **Cue** column is the prescription (what the session is *meant* to be). The **Session Log** is for after the session: actual RPE, how grip felt, skin, sleep, anything that explains why it went well or poorly.
+
+| Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
+|------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
+| 1 | Tue | Max Hang | 20 mm | 5 | 7s | +8 | 53% | 7/10 | [ ] | Harder ramp-in + calibration check | |
+| 1 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 6/10 | [ ] | Volume re-intro | |
+| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 7.5/10 | [ ] | +2 kg, sets held | |
+| 2 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6.5/10 | [ ] | +1 set (volume bump) | |
+| 3 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | +2 kg, sets held | |
+| 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7/10 | [ ] | Volume hold, no added load | |
+| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +7 | 47% | 6/10 | [ ] | **DELOAD** — drop load + 1 set | |
+| 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set | |
+| 5 | Tue | Max Hang | 20 mm | 5 | 7s | +13 | 87% | 8.5/10 | [ ] | Post-deload push | |
+| 5 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +1 | — | 7.5/10 | [ ] | First loaded repeaters | |
+| 6 | Tue | Max Hang | 20 mm | 5 | 7s | +14 | 93% | 9/10 | [ ] | **PEAK** — optional top single @ +15–16 if all 5 sets felt strong | |
+| 6 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +2 | — | 8/10 | [ ] | Last quality session | |
 
 **Re-test week (W7):** 5–7 days fully off finger work, then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Update both this header and the Tindeq log.
+
+**Open-hand caveat:** keep the Abrahamson 3-finger drag / open sets light (more leg support) until ~1 week fully pain-free. Any tendon sensation lingering >24h after a session → drop the next session 2 kg and don't progress that week.
 
 ---
 
