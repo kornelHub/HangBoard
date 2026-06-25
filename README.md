@@ -1,9 +1,5 @@
 # 6-Week Hangboard Plan (Repeaters + Max Hangs)
 
-Half crimp, no thumb. All hangs on 20 mm.
-
----
-
 ## Weekly Schedule
 
 Mon climbing was dropped to free recovery budget for a second structured hangboard session. Fingers are the limiter for the current grade (see "Why two finger sessions" below), so the week now prioritizes hangboard quality over climbing volume. Friday can be wall or rock — placement of the hangboard sessions does not change either way.
@@ -31,19 +27,31 @@ Mon climbing was dropped to free recovery budget for a second structured hangboa
 - **Sat rest is non-negotiable.** Sun rock is the performance day; it gets ≥48h since the last hangboard session and a full rest day immediately before.
 - **Friday rock vs wall** doesn't move the hangboard placement. Only the total weekly finger load shifts (wall = controlled, rock = variable).
 
-### Why two finger sessions (and not three)
-
-Current 20 mm 7s max hang is +15 kg (≈20% BW added) on a 7c lead climber. Typical 7c benchmarks sit around 75–100% BW added — fingers are clearly the limiter, so the marginal return on a second structured hangboard day is high. A *third* structured day is where pulley risk spikes and gains stall. Stick at two + daily Abrahamson recruitment hangs (see `abrahamson-hangs.md`); win on consistency over a 6-month horizon, not on volume per week.
-
----
-
 ## Baseline & Load References
 
 - **Bodyweight:** 73.5 kg
-- **20 mm peak added load (1RM, 7 s):** +15 kg ← **this is the anchor for all load %**
-- **Tindeq 25 mm combined peak (supplementary):** 100.00 kg (27.05.2026)
 
-All max-hang loads below are expressed as a percentage of +15 kg added. Tindeq is tracked separately as a long-term strength indicator, not used to calibrate session loads.
+### 20 mm Max Hang Peak Log (1RM, 7 s)
+
+The most recent entry is the **anchor for all load %** below. Tindeq (see bottom of file) is tracked separately as a long-term strength indicator, not used to calibrate session loads.
+
+| Date | Added Load (kg) | % BW | Notes |
+|------|-----------------|------|-------|
+| 27.05.2026 | +15 | 20.4% | Current anchor — old PR treated as current max |
+|  |  |  |  |
+
+### 25 mm Tindeq Upper Pull Log
+
+| Date | Left (kg) | Right (kg) | Combined (kg) | Avg (kg) | Notes |
+|------|-----------|------------|---------------|----------|-------|
+| 21.04.2026 | 36.85 | 38.20 | 75.05 | 37.53 | Baseline, pre-period |
+| 29.04.2026 | 36.35 | 39.95 | 76.30 | 38.15 | L 49.8%, R 54.7% BW; +1.25 combined vs baseline |
+| 19.05.2026 | 37.60 | 39.10 | 76.70 | 38.35 | +0.40 combined vs last; L 51.2%, R 53.2% BW |
+| 26.05.2026 | 44.05 | 48.05 | 92.10 | 46.05 | Pre max-hangs check; **+15.40 combined vs last** (L 59.9%, R 65.4% BW) |
+| 27.05.2026 | 46.30 | 53.70 | 100.00 | 50.00 | Post Abrahamson hangs; **+7.90 combined vs last** (L 63.0%, R 73.1% BW) |
+|  |  |  |  |  |  |
+
+Suggested re-test cadence: end of W3 (mid-block check) and end of W6 + 7 days rest (post-period).
 
 ---
 
@@ -98,18 +106,3 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 **Re-test week (W7):** 5–7 days fully off finger work, then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Update both this header and the Tindeq log.
 
 **Open-hand caveat:** keep the Abrahamson 3-finger drag / open sets light (more leg support) until ~1 week fully pain-free. Any tendon sensation lingering >24h after a session → drop the next session 2 kg and don't progress that week.
-
----
-
-## 25 mm Tindeq Upper Pull Log
-
-| Date | Left (kg) | Right (kg) | Combined (kg) | Avg (kg) | Notes |
-|------|-----------|------------|---------------|----------|-------|
-| 21.04.2026 | 36.85 | 38.20 | 75.05 | 37.53 | Baseline, pre-period |
-| 29.04.2026 | 36.35 | 39.95 | 76.30 | 38.15 | L 49.8%, R 54.7% BW; +1.25 combined vs baseline |
-| 19.05.2026 | 37.60 | 39.10 | 76.70 | 38.35 | +0.40 combined vs last; L 51.2%, R 53.2% BW |
-| 26.05.2026 | 44.05 | 48.05 | 92.10 | 46.05 | Pre max-hangs check; **+15.40 combined vs last** (L 59.9%, R 65.4% BW) |
-| 27.05.2026 | 46.30 | 53.70 | 100.00 | 50.00 | Post Abrahamson hangs; **+7.90 combined vs last** (L 63.0%, R 73.1% BW) |
-|  |  |  |  |  |  |
-
-Suggested re-test cadence: end of W3 (mid-block check) and end of W6 + 7 days rest (post-period).
