@@ -90,9 +90,9 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 
 | Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
-| 1 | Tue | Max Hang | 20 mm | 5 | 7s | +8 | 53% | 7/10 | ✅ | Harder ramp-in + calibration check | |
-| 1 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 6/10 | [ ] | Volume re-intro | |
-| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 7.5/10 | [ ] | +2 kg, sets held | |
+| 1 | Tue | Max Hang | 20 mm | 5 | 7s | +8 | 53% | 7/10 | ✅ | Harder ramp-in + calibration check | it was kinda hard, but first hangboard with weigth after the tendon|
+| 1 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 6/10 | ❌ | Volume re-intro | |
+| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 7.5/10 | ✅ | +2 kg, sets held | felt good |
 | 2 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6.5/10 | [ ] | +1 set (volume bump) | |
 | 3 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | +2 kg, sets held | |
 | 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7/10 | [ ] | Volume hold, no added load | |
