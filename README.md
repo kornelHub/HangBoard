@@ -91,17 +91,11 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
 | 1 | Tue | Max Hang | 20 mm | 5 | 7s | +8 | 53% | 7/10 | ✅ | Harder ramp-in + calibration check | it was kinda hard, but first hangboard with weigth after the tendon|
-| 1 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 6/10 | ❌ | Volume re-intro | |
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 7.5/10 | ✅ | +2 kg, sets held | felt good |
-| 2 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 6.5/10 | [ ] | +1 set (volume bump) | |
 | 3 | Tue | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | [ ] | +2 kg, sets held | |
-| 3 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | BW | — | 7/10 | [ ] | Volume hold, no added load | |
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +7 | 47% | 6/10 | [ ] | **DELOAD** — drop load + 1 set | |
-| 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | [ ] | **DELOAD** — drop 1 set | |
 | 5 | Tue | Max Hang | 20 mm | 5 | 7s | +13 | 87% | 8.5/10 | [ ] | Post-deload push | |
-| 5 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +1 | — | 7.5/10 | [ ] | First loaded repeaters | |
 | 6 | Tue | Max Hang | 20 mm | 5 | 7s | +14 | 93% | 9/10 | [ ] | **PEAK** — optional top single @ +15–16 if all 5 sets felt strong | |
-| 6 | Thu | Repeaters | 20 mm | 4 | 6×(7:3) | +2 | — | 8/10 | [ ] | Last quality session | |
 
 **Re-test week (W7):** 5–7 days fully off finger work, then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Update both this header and the Tindeq log.
 
