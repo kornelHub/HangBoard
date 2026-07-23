@@ -85,7 +85,7 @@ Rules of thumb for this period:
 
 ## Current Period Progress — Block 2 (post-strain re-entry)
 
-Anchored to peak added = **+18 kg (estimate)** on 20 mm after W3 re-anchor — +12 floated at ~6/10 on *tired* fingers, so the old +15 was stale (% column below is now relative to +18). W5–W6 were pushed up accordingly. The +18 is an estimate: **confirm it at the W7 re-test before treating it as a real PR.** All hangs 20 mm half-crimp, no thumb; hold stays 7s throughout (progression is weight + sets only).
+Anchored to peak added = **+18 kg (estimate)** on 20 mm after W3 re-anchor — +12 floated at ~6/10 on *tired* fingers, so the old +15 was stale. W5–W6 loads were pushed up accordingly (marked `(!)` — see note under the table). The +18 is an estimate: **confirm it at the W7 re-test before treating it as a real PR.** All hangs 20 mm half-crimp, no thumb; hold stays 7s throughout (progression is weight + sets only).
 
 **Fresh-at-high-load caution:** so far this block the fingers have only been loaded *tired*. When you hit +15/+16 in W5–W6, do it on a real rest-day-first fresh session, ramp up properly, and watch the old strain spot for 24h after.
 
@@ -96,9 +96,11 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 1 | Tue | Max Hang | 20 mm | 5 | 7s | +8 | 53% | 7/10 | ✅ | Harder ramp-in + calibration check | it was kinda hard, but first hangboard with weigth after the tendon|
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +10 | 67% | 7.5/10 | ✅ | +2 kg, sets held | felt good |
 | 3 | Mon | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | ✅ | +2 kg, sets held | Done Mon (day after Sun climbing, NOT fresh). All 5 sets easy (~6/10). Sun was an easy day — sent a 7c project on warmup go, few hard moves. Anchor is stale → re-anchor (see note below). |
-| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +7 | 47% | 6/10 | [ ] | **DELOAD** — drop load + 1 set | |
-| 5 | Tue | Max Hang | 20 mm | 5 | 7s | +15 | 87% | 8.5/10 | [ ] | Post-deload push | |
-| 6 | Tue | Max Hang | 20 mm | 5 | 7s | +16 | 93% | 9/10 | [ ] | **PEAK** — optional top single @ +15–16 if all 5 sets felt strong | |
+| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +7 | 47% | 6/10 | ✅ | **DELOAD** — drop load + 1 set | easy and comfy |
+| 5 | Tue | Max Hang | 20 mm | 5 | 7s | +15 (!) | 87% | 8.5/10 | ✅ | Post-deload push | Weight increased +13 → +15 after W3 re-anchor. % of max left at original value (not recalculated). MY NOTES: All sets completed at +15 with power to spare (few seconds left, could've added weight). went in a bit tired/sore — first 7c+ send 2 days earlier. So this was a strong result on NOT-fresh fingers. |
+| 6 | Tue | Max Hang | 20 mm | 5 | 7s | +16 (!) | 93% | 9/10 | [ ] | **PEAK** — optional top single @ +17–18 if all 5 sets felt strong | Weight increased +14 → +16 after W3 re-anchor. % of max left at original value (not recalculated). |
+
+> **`(!)` — W5 & W6 weight was increased.** After W3 showed the +15 anchor was stale (+12 felt easy), the loads for W5 (+15) and W6 (+16) were bumped above the original prescription. The **% of Max** values in those two rows are the *original* planned percentages and are **intentionally left uncorrected** — kept as a reference for future re-anchoring once the true max is confirmed at the W7 re-test.
 
 **Re-test week (W7):** 5–7 days fully off finger work, then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Update both this header and the Tindeq log.
 
