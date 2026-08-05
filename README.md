@@ -38,7 +38,8 @@ The most recent entry is the **anchor for all load %** below. Tindeq (see bottom
 | Date | Added Load (kg) | % BW | Notes |
 |------|-----------------|------|-------|
 | 27.05.2026 | +15 | 20.4% | Old PR — was Block 2 anchor |
-| 06.07.2026 | +18 (est.) | 24.5% | **Current anchor (estimate).** +12 floated at ~6/10 on *tired* fingers (W3, day after Sun climbing) → true fresh max well above +15. Estimate only — confirm at W7 re-test. |
+| 06.07.2026 | +18 (est.) | 24.5% | Mid-block re-anchor estimate — superseded by the tested PR below. |
+| 05.08.2026 | +20 | 27.2% | **Current anchor — new tested PR.** Fresh test after 1 week rest; held +20 for clean 7s, attempted +22 and failed. Anchor for Block 3. |
 |  |  |  |  |
 
 ### 25 mm Tindeq Upper Pull Log
@@ -61,7 +62,7 @@ Suggested re-test cadence: end of W3 (mid-block check) and end of W6 + 7 days re
 Rules of thumb for this period:
 
 1. **Change one variable per week.** Either sets OR weight OR edge — not all three.
-2. **Max hangs:** build toward ~85–90% of the current anchor (~+16 of +18 est.) by W6. Hold time stays at 7s throughout — progression is via weight and sets only.
+2. **Max hangs:** build toward ~90–95% of the current anchor (~+18–19 of +20) by W6. Hold time stays at 7s throughout — progression is via weight and sets only.
 3. **Repeaters:** stay at 60–70% intensity. On 20 mm that is BW for most weeks; small load (+1–2 kg) only in W5–W6.
 4. **Deload (W4):** drop sets and load by ~10–15%. This is non-negotiable — it's where adaptation actually happens.
 5. **All hangs are on 20 mm.** Since there's no easier edge to fall back to, manage load and sets carefully — especially on repeaters where accumulated fatigue is higher on 20 mm than it would be on 25 mm.
@@ -83,7 +84,7 @@ Rules of thumb for this period:
 | 4 | Thu | Repeaters | 20 mm | 3 | 6×(7:3) | BW | — | 5/10 | ❌ | **DELOAD** — drop 1 set |  |
 | — | — | — | — | — | — | — | — | — | — | Block stopped after deload — small open-hand tendon strain | Resumed as Block 2 |
 
-## Current Period Progress — Block 2 (post-strain re-entry)
+## Block 2 — Previous Period (archived, post-strain re-entry)
 
 Anchored to peak added = **+18 kg (estimate)** on 20 mm after W3 re-anchor — +12 floated at ~6/10 on *tired* fingers, so the old +15 was stale. W5–W6 loads were pushed up accordingly (marked `(!)` — see note under the table). The +18 is an estimate: **confirm it at the W7 re-test before treating it as a real PR.** All hangs 20 mm half-crimp, no thumb; hold stays 7s throughout (progression is weight + sets only).
 
@@ -98,10 +99,31 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 3 | Mon | Max Hang | 20 mm | 5 | 7s | +12 | 80% | 8/10 | ✅ | +2 kg, sets held | Done Mon (day after Sun climbing, NOT fresh). All 5 sets easy (~6/10). Sun was an easy day — sent a 7c project on warmup go, few hard moves. Anchor is stale → re-anchor (see note below). |
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +7 | 47% | 6/10 | ✅ | **DELOAD** — drop load + 1 set | easy and comfy |
 | 5 | Tue | Max Hang | 20 mm | 5 | 7s | +15 (!) | 87% | 8.5/10 | ✅ | Post-deload push | Weight increased +13 → +15 after W3 re-anchor. % of max left at original value (not recalculated). MY NOTES: All sets completed at +15 with power to spare (few seconds left, could've added weight). went in a bit tired/sore — first 7c+ send 2 days earlier. So this was a strong result on NOT-fresh fingers. |
-| 6 | Tue | Max Hang | 20 mm | 5 | 7s | +16 (!) | 93% | 9/10 | [ ] | **PEAK** — optional top single @ +17–18 if all 5 sets felt strong | Weight increased +14 → +16 after W3 re-anchor. % of max left at original value (not recalculated). |
+| 6 | — | Max Hang | 20 mm | — | — | — | — | — | ❌ | **SKIPPED — deliberate taper** | Skipped on purpose: cumulative fatigue + 35°C weekend = natural rest window. Went straight into taper → 1 week rest → re-test. |
 
 > **`(!)` — W5 & W6 weight was increased.** After W3 showed the +15 anchor was stale (+12 felt easy), the loads for W5 (+15) and W6 (+16) were bumped above the original prescription. The **% of Max** values in those two rows are the *original* planned percentages and are **intentionally left uncorrected** — kept as a reference for future re-anchoring once the true max is confirmed at the W7 re-test.
 
 **Re-test week (W7):** 5–7 days fully off finger work, then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Update both this header and the Tindeq log.
 
 **Open-hand caveat:** keep the Abrahamson 3-finger drag / open sets light (more leg support) until ~1 week fully pain-free. Any tendon sensation lingering >24h after a session → drop the next session 2 kg and don't progress that week.
+
+---
+
+## Current Period Progress — Block 3
+
+Anchored to **tested PR = +20 kg** on 20 mm (05.08.2026 — held +20 clean 7s, failed +22). This is the first block trained fully healthy (no strain re-entry), so W1 starts at real working intensity (~70%) rather than the ultra-cautious ramp of Block 2. All hangs 20 mm half-crimp, no thumb; hold stays 7s throughout — progression is weight + sets only. All loads are plate-achievable (multiples of 1.25 kg).
+
+The **Cue** column is the prescription (what the session is *meant* to be). The **Session Log** is for after the session: actual RPE, how grip felt, skin, sleep, anything that explains why it went well or poorly.
+
+| Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
+|------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
+| 1 | Tue | Max Hang | 20 mm | 5 | 7s | +13.75 | 69% | 7/10 | [ ] | Re-entry at working intensity | |
+| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +15 | 75% | 7.5/10 | [ ] | +1.25 kg, sets held | |
+| 3 | Tue | Max Hang | 20 mm | 5 | 7s | +16.25 | 81% | 8/10 | [ ] | +1.25 kg, sets held | |
+| 4 | Tue | Max Hang | 20 mm | 4 | 7s | +11.25 | 56% | 6/10 | [ ] | **DELOAD** — drop load + 1 set | |
+| 5 | Tue | Max Hang | 20 mm | 5 | 7s | +17.5 | 88% | 8.5/10 | [ ] | Post-deload push | |
+| 6 | Tue | Max Hang | 20 mm | 3 | 7s | +18.75 | 94% | 9/10 | [ ] | **PEAK** — lower volume, higher intensity. Optional top single @ +20 → +21.25 (PR attempt) if all sets felt strong | |
+
+**Re-test week (W7):** 1 week rest with a light primer ~48h out (this worked well before the +20 test), then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Add a new row to both the peak log and the Tindeq log — the newest peak-log row auto-becomes the next block's anchor.
+
+**Progression note:** working sets climb 69 → 75 → 81% → (deload) → 88 → 94% of +20, ending with a PR attempt. If any week comes in ≥2 RPE under target (like +12 did last block), hold that session and bump the remaining loads — you re-anchored up mid-block once already and it worked.
