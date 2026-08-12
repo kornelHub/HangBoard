@@ -117,7 +117,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 
 | Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
-| 1 | Tue | Max Hang | 20 mm | 5 | 7s | +13.75 | 69% | 7/10 | [ ] | Re-entry at working intensity | |
+| 1 | Tue | Max Hang | 20 mm | 5 | 7s | +13.75 | 69% | 7/10 | ✅ | Re-entry at working intensity | Felt good and easy |
 | 2 | Tue | Max Hang | 20 mm | 5 | 7s | +15 | 75% | 7.5/10 | [ ] | +1.25 kg, sets held | |
 | 3 | Tue | Max Hang | 20 mm | 5 | 7s | +16.25 | 81% | 8/10 | [ ] | +1.25 kg, sets held | |
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +11.25 | 56% | 6/10 | [ ] | **DELOAD** — drop load + 1 set | |
