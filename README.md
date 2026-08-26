@@ -44,6 +44,9 @@ The most recent entry is the **anchor for all load %** below. Tindeq (see bottom
 
 ### 25 mm Tindeq Upper Pull Log
 
+Tindeq is a long-term strength indicator, not used to calibrate hangboard session loads. Open-hand tables are diagnostic (left = previously strained side). Today's 3-open / 2-open-middle rows are a **tired baseline** (day after hard climbing) — do not treat them as a 1RM to chase.
+
+#### 4 Half Crimp
 | Date | Left (kg) | Right (kg) | Combined (kg) | Avg (kg) | Notes |
 |------|-----------|------------|---------------|----------|-------|
 | 21.04.2026 | 36.85 | 38.20 | 75.05 | 37.53 | Baseline, pre-period |
@@ -51,9 +54,19 @@ The most recent entry is the **anchor for all load %** below. Tindeq (see bottom
 | 19.05.2026 | 37.60 | 39.10 | 76.70 | 38.35 | +0.40 combined vs last; L 51.2%, R 53.2% BW |
 | 26.05.2026 | 44.05 | 48.05 | 92.10 | 46.05 | Pre max-hangs check; **+15.40 combined vs last** (L 59.9%, R 65.4% BW) |
 | 27.05.2026 | 46.30 | 53.70 | 100.00 | 50.00 | Post Abrahamson hangs; **+7.90 combined vs last** (L 63.0%, R 73.1% BW) |
-|  |  |  |  |  |  |
+| 14.08.2026 | 48.80 | 51.60 | 100.40 | 50.20 | After a hard climbing day. Combined matches 27.05 peak (+0.40). L 66.4%, R 70.2% BW. L/R = 94.6% (was 86.2% on 27.05 — left caught up, +2.50 vs May). |
 
-Suggested re-test cadence: end of W3 (mid-block check) and end of W6 + 7 days rest (post-period).
+#### 3 Open (3-finger drag)
+| Date | Left (kg) | Right (kg) | Combined (kg) | Avg (kg) | Notes |
+|------|-----------|------------|---------------|----------|-------|
+| 14.08.2026 | 30.40 | 41.50 | 71.90 | 35.95 | Tired baseline. L 41.4%, R 56.5% BW. L/R = 73.3% (**−11.1 kg / −27% vs right**). L is 62% of own 4HC; R is 80% of own 4HC. Gap is position-specific, not a general left-hand problem. |
+
+#### 2 Open Middle (middle + ring)
+| Date | Left (kg) | Right (kg) | Combined (kg) | Avg (kg) | Notes |
+|------|-----------|------------|---------------|----------|-------|
+| 14.08.2026 | 18.00 | 27.10 | 45.10 | 22.55 | Tired baseline. L 24.5%, R 36.9% BW. L/R = 66.4% (**−9.1 kg / −34% vs right**). Same left-open pattern as 3-open — this pair is the strain site. Keep 2F open in Abrahamson only (lots of leg support); do not max it. |
+
+Suggested re-test cadence: end of W3 (mid-block check) and end of W6 + 7 days rest (post-period). Repeat **all three grips** on those days, ideally fresh — the 14.08 open-hand numbers are a floor. Watch **left 3-open** as the metric, not combined.
 
 ---
 
@@ -118,8 +131,8 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | Week | Day | Session | Edge | Sets | Reps / Hold | Added Load (kg) | % of Max | Target RPE | Done | Cue | Session Log |
 |------|-----|---------|------|------|-------------|-----------------|----------|------------|------|-----|-------------|
 | 1 | Tue | Max Hang | 20 mm | 5 | 7s | +13.75 | 69% | 7/10 | ✅ | Re-entry at working intensity | Felt good and easy |
-| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +15 | 75% | 7.5/10 | [ ] | +1.25 kg, sets held | |
-| 3 | Tue | Max Hang | 20 mm | 5 | 7s | +16.25 | 81% | 8/10 | [ ] | +1.25 kg, sets held | |
+| 2 | Tue | Max Hang | 20 mm | 5 | 7s | +15 | 75% | 7.5/10 | ✅ | +1.25 kg, sets held | |
+| 3 | Tue | Max Hang | 20 mm | 5 | 7s | +16.25 | 81% | 8/10 | ✅ | +1.25 kg, sets held | +16.5 actually. done on the weird edges on korona, suites me much better but they are 20 aswell|
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +11.25 | 56% | 6/10 | [ ] | **DELOAD** — drop load + 1 set | |
 | 5 | Tue | Max Hang | 20 mm | 5 | 7s | +17.5 | 88% | 8.5/10 | [ ] | Post-deload push | |
 | 6 | Tue | Max Hang | 20 mm | 3 | 7s | +18.75 | 94% | 9/10 | [ ] | **PEAK** — lower volume, higher intensity. Optional top single @ +20 → +21.25 (PR attempt) if all sets felt strong | |
