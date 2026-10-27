@@ -135,7 +135,7 @@ The **Cue** column is the prescription (what the session is *meant* to be). The 
 | 3 | Tue | Max Hang | 20 mm | 5 | 7s | +16.25 | 81% | 8/10 | ✅ | +1.25 kg, sets held | +16.5 actually. done on the weird edges on korona, suites me much better but they are 20 aswell|
 | 4 | Tue | Max Hang | 20 mm | 4 | 7s | +11.25 | 56% | 6/10 | ✅ | **DELOAD** — drop load + 1 set | |
 | 5 | Tue | Max Hang | 20 mm | 5 | 7s | +17.5 | 88% | 8.5/10 | ✅ | Post-deload push | Done with some few seconds left on each series |
-| 6 | Tue | Max Hang | 20 mm | 3 | 7s | +18.75 | 94% | 9/10 | [ ] | **PEAK** — lower volume, higher intensity. Optional top single @ +20 → +21.25 (PR attempt) if all sets felt strong | |
+| 6 | Tue | Max Hang | 20 mm | 3 | 7s | +18.75 | 94% | 9/10 | ✅ | **PEAK** — lower volume, higher intensity. Optional top single @ +20 → +21.25 (PR attempt) if all sets felt strong | |
 
 **Re-test week (W7):** 1 week rest with a light primer ~48h out (this worked well before the +20 test), then attempt new 1RM (7s) on 20 mm + Tindeq pull on 25 mm. Add a new row to both the peak log and the Tindeq log — the newest peak-log row auto-becomes the next block's anchor.
 
